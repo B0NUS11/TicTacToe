@@ -4,7 +4,7 @@ ticTacToeGame.java
 Mr. Carreiro
 Description: 
 - This code runs a tic tac toe game. 
-- G``et 3 in a row and win!
+- Get 3 in a row and win!
 - Be sure to wait until it says who's turn it is
 */
 
